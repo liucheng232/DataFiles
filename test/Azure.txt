@@ -1,1 +1,1 @@
-my new file contents
+这是另外一个测试
